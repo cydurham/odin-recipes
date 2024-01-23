@@ -1,8 +1,13 @@
-.link {
+div {
+    font-family: Arial;
     text-align: center;
     color: black;
     text-decoration: none
-    
+}
+
+#header {
+    color: red;
+    text-align: center;
 }
 
 .link:hover {
